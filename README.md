@@ -2,6 +2,7 @@
 
 > 文本转 Anki 记忆卡片技能 — 把笔记、教材、论文、网页自动生成闪卡，支持导出 .apkg 直接导入 Anki。
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Allen091080/flashcard-maker/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](.)
